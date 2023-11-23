@@ -71,7 +71,7 @@ else:
 
 # Output : 
 
-
+![Screenshot 2023-11-23 193223](https://github.com/mercyarulappan/Poisson_distribution/assets/149233730/618e1235-641a-41b6-970d-e603394b7e0e)
 
 # Results
 
