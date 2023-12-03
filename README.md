@@ -1,4 +1,6 @@
 # Fitting Poisson  distribution
+
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -29,7 +31,14 @@ The Poisson distribution is the discrete probability distribution of the number 
 ![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
 
 # Program :
+
 ```
+
+Developed ByL MERCY A
+
+Reg No: 23012506
+
+
 import numpy as np
 import math
 import scipy.stats
@@ -71,9 +80,11 @@ else:
 
 # Output : 
 
+
 ![Screenshot 2023-11-23 193223](https://github.com/mercyarulappan/Poisson_distribution/assets/149233730/618e1235-641a-41b6-970d-e603394b7e0e)
 
-# Results
+
+# Result:
 
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
  
